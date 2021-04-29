@@ -1,5 +1,5 @@
 abstract class Account(number:String,customer:Customer,balance:Double) {
-protected val number = number
+    protected val number = number
     protected val customer = customer
     protected var balance = balance
 
